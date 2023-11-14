@@ -6,6 +6,8 @@
 
 <h2>🚀 Demo</h2>
 
+https://statuesque-torrone-e8381c.netlify.app/
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
